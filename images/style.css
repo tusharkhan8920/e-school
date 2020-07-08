@@ -1,0 +1,81 @@
+.section-part {
+  margin-bottom: 60px;
+  padding: 10px 50px;
+}
+.navbar img {
+  height: 50px;
+  width: 150px;
+}
+#sign-bg {
+  border: 0;
+  border-radius: 20px;
+  background-color: rgb(12, 177, 12);
+  height: 20px;
+  width: 80px;
+  text-align: center;
+  padding-bottom: 40%;
+  color: white;
+}
+.bg-container {
+  background-color: #f0fff0;
+}
+.bg-nav {
+  background-color: #f0fff0;
+}
+.row {
+  padding: 20px 40px;
+}
+.col-md-7 img {
+  width: 80%;
+}
+.text-color {
+  color: gray;
+}
+.btn {
+  border-radius: 30px;
+  background-color: rgb(12, 177, 12);
+  color: white;
+  width: 150px;
+}
+.icon-img {
+  width: 40%;
+}
+.cat-1,
+.cat-2,
+.cat-3,
+.cat-4 {
+  background: #e8f5ee;
+  border-radius: 10px;
+  height: 270px;
+  padding: 80px 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.cat-2 {
+  background-color: #ffffff;
+  box-shadow: 5px 5px 15px rgb(95, 94, 94);
+}
+.section-title {
+  text-align: center;
+}
+.card-deck {
+  padding: 20px 40px;
+}
+.card {
+  border-radius: 40px;
+  box-shadow: 5px 5px 15px rgb(173, 173, 173);
+}
+.card-footer {
+  border-top: none;
+  background-color: white;
+}
+
+.calendar-people {
+  width: 25px;
+}
+.man-part {
+  padding: 10px 150px;
+}
+footer {
+  text-align: center;
+}
